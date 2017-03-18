@@ -1,0 +1,451 @@
+{
+	"folder_history":
+	[
+		"/C/Users/liulk001/Desktop/发网联调测试",
+		"/C/Users/liulk001/Desktop/模板数据"
+	],
+	"last_version": 3126,
+	"last_window_id": 7,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 601.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 152.0,
+				"last_filter": "Package Control: in",
+				"selected_items":
+				[
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 416.0
+			},
+			"console":
+			{
+				"height": 223.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/liulk001/Desktop/data",
+				"/C/Users/liulk001/Desktop/发网联调测试/inventory.push",
+				"/C/Users/liulk001/Desktop/发网联调测试/rtInventoryQuery (2).txt"
+			],
+			"find":
+			{
+				"height": 45.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"调整项",
+					"收款",
+					"2017-01-2",
+					"2110001",
+					"2110003",
+					"2110001",
+					"test_Ifw_170120_004",
+					"test_Osf_170120_214",
+					"test_Osf_170120_211",
+					"test_Osf_170120_215",
+					"test_Osf_170120_200",
+					"test_Osf_170120_201",
+					"test_Osf_170120_200",
+					"test_Osf_170120_252",
+					"test_Osf_170120_216",
+					"test_Osf_170120_214",
+					"test_Osf_170120_213",
+					"test_Osf_170120_211",
+					"test_Osf_170120_202",
+					"test_Osf_170120_201",
+					"test_Osf_170120_238",
+					"test_Osf_170120_237",
+					"test_Osf_170120_236",
+					"test_Osf_170120_235",
+					"test_Osf_170120_234",
+					"test_Osf_170120_233",
+					"test_Osf_170120_232",
+					"test_Osf_170120_231",
+					"2017-01-20 18",
+					"test_Osf_170120_231",
+					"test_Osf_170120_232",
+					"test_Osf_170120_231"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 188.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 800.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "{\n\t\"bootstrapped\": true\n}\n",
+					"file": "/C/Users/liulk001/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+					"file_size": 522,
+					"file_write_time": 131342956449461411,
+					"settings":
+					{
+						"buffer_size": 26,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "Package Control: in",
+				"selected_items":
+				[
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 223.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+			],
+			"file_history":
+			[
+				"/C/Users/liulk001/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/liulk001/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/liulk001/Desktop/严选/网易严选与第三方仓储系统对接接口文档.md",
+				"/C/Users/liulk001/Desktop/test.xml",
+				"/C/Users/liulk001/Desktop/发网联调测试/expration.json",
+				"/C/Users/liulk001/Desktop/data",
+				"/C/Users/liulk001/Desktop/发网联调测试/inventory.push",
+				"/C/Users/liulk001/Desktop/发网联调测试/rtInventoryQuery (2).txt"
+			],
+			"find":
+			{
+				"height": 45.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"调整项",
+					"收款",
+					"2017-01-2",
+					"2110001",
+					"2110003",
+					"2110001",
+					"test_Ifw_170120_004",
+					"test_Osf_170120_214",
+					"test_Osf_170120_211",
+					"test_Osf_170120_215",
+					"test_Osf_170120_200",
+					"test_Osf_170120_201",
+					"test_Osf_170120_200",
+					"test_Osf_170120_252",
+					"test_Osf_170120_216",
+					"test_Osf_170120_214",
+					"test_Osf_170120_213",
+					"test_Osf_170120_211",
+					"test_Osf_170120_202",
+					"test_Osf_170120_201",
+					"test_Osf_170120_238",
+					"test_Osf_170120_237",
+					"test_Osf_170120_236",
+					"test_Osf_170120_235",
+					"test_Osf_170120_234",
+					"test_Osf_170120_233",
+					"test_Osf_170120_232",
+					"test_Osf_170120_231",
+					"2017-01-20 18",
+					"test_Osf_170120_231",
+					"test_Osf_170120_232",
+					"test_Osf_170120_231"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\liulk001\\Desktop\\发网联调测试"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/liulk001/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 26,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										23,
+										23
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32114,-32000,-1,-1,941,3050,268,3868",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 188.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 4,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
